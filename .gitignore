@@ -46,3 +46,14 @@ coverage.xml
 
 # Django migrations
 */migrations/*
+
+
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+.env
+staticfiles/
+media/
